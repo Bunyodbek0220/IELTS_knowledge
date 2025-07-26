@@ -4,10 +4,7 @@
 ### Web ###
 *.asp
 *.cer
-*.csr
-*.css
-*.htm
-*.html
+*.cs
 *.js
 *.jsp
 *.php
